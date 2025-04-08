@@ -38,7 +38,7 @@ The dataset is stored in `Curated_Resume_Bullet_Dataset.csv` with the following 
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/your-username/resumegpt-data.git
+git clone https://github.com/Likhith02/resumegpt-data.git
 cd resumegpt-data
 pip install -r requirements.txt
 streamlit run resumegpt.py
